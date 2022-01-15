@@ -14,7 +14,7 @@ Job is a AWS-based web application which aims to let users search for jobs nearb
 
 
 
-![Structure](img/Project structure.png)
+![Structure](img/structure.png)
 
 
 
