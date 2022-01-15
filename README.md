@@ -25,5 +25,5 @@ Job is a AWS-based web application which aims to let users search for jobs nearb
 3. The application will list new open positions based on your previously favored items on the recommended page.
 4. Utilized GitHub Jobs API for job searching,  extracted users' favorite job keywords through MonkeyLearn API, and recommended relevant jobs.
 
-![Login](img/Login.png)
+![Login](img/login.png)
 
